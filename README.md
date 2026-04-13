@@ -93,7 +93,8 @@ This design encourages the policy to optimize **system-wide effectiveness** rath
 ### Activate the virtual environment
 ```bash
 source venv/bin/activate
-
+```
+### Run the project
 ```bash
 python3 main.py
 ```
