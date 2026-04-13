@@ -98,6 +98,8 @@ source venv/bin/activate
 ```bash
 python3 main.py
 
+---
+
 ## Evaluation Metrics
 
 The trained agent was evaluated using the following metrics:
