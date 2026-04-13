@@ -94,12 +94,9 @@ This design encourages the policy to optimize **system-wide effectiveness** rath
 ```bash
 source venv/bin/activate
 
-### Run the project
 ```bash
 python3 main.py
-
----
-
+```
 ## Evaluation Metrics
 
 The trained agent was evaluated using the following metrics:
